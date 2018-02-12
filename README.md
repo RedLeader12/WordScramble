@@ -1,5 +1,16 @@
 # List and Conditionals 
 
+![](public/1.png)
+
+This was a React exercise from a Udemy course to understand list and conditionals. The last step definitely is a killer and the new thing that I learnt is this syntax
+
+ props.inputLength > 5 ?
+<p> Text too long! </p> : <p> Text too short! </p>
+
+The semi colon says if true, put too long else, put too short.
+
+Cool exercise to go through and then obviously went crazy with the styling. 
+
 
 ## Instructions 
 
