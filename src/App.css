@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
 .App {
   margin: 16px;
+}
+
+.input{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Roboto Slab', serif;
+  position: absolute;
+  top: 64%;
+  left: 10%
+}
+
+.Lengthfield {
+  width: 400px;
+  height: 30px;
+  border-radius: 40px;
+  font-size: 30px;
+  font-family: 'Roboto Slab', serif;
+  outline: none;
+  position: absolute;
+  top: 80%;
+  left: 35%
+
 }

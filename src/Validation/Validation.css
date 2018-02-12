@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
+
+.Align {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+
+}

@@ -30,7 +30,7 @@ class App extends Component {
     return (
       <div className="App">
         <input className="Lengthfield" onChange={this.stringLengthHandler} type="text" />
-        <p> {this.state.input} </p>
+        <p className ="input" > {this.state.input} </p>
         <Validation inputLength={this.state.input.length}/>
         {charList}
       </div>
