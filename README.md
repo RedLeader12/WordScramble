@@ -5,7 +5,7 @@
 
 - Create an input field (in App Component) with a change listener which outputs the length of the entered text below 
 
-- Create a new component (=> ValidationComponent) which reveals the text length as apop 
+- Create a new component (=> ValidationComponent) which reveals the text length as a prop 
 
 - Inside the Validate Component either output "Text too short" or "text too long depending on the text length (min = 5)
 
