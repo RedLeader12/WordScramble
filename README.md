@@ -11,6 +11,26 @@ The semi colon says if true, put too long else, put too short.
 
 Cool exercise to go through and then obviously went crazy with the styling. 
 
+## How To Use (Hope I'm right)
+
+1. Clone the repo
+```
+git clone https://github.com/thatdania/WordScramble.git
+```
+2. Change the project folder directory
+```
+cd WordScramble
+```
+
+3. Npm install (just in case)
+```
+npm install
+```
+
+4. Npm start to get it going, to give it a try
+```
+Give it a try 
+```
 
 ## Instructions 
 
